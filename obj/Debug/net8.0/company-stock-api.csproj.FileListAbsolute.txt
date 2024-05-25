@@ -135,3 +135,4 @@ C:\Users\Nathan G\Desktop\Web Development\company-stock-api\obj\Debug\net8.0\ref
 C:\Users\Nathan G\Desktop\Web Development\company-stock-api\obj\Debug\net8.0\company-stock-api.pdb
 C:\Users\Nathan G\Desktop\Web Development\company-stock-api\obj\Debug\net8.0\company-stock-api.genruntimeconfig.cache
 C:\Users\Nathan G\Desktop\Web Development\company-stock-api\obj\Debug\net8.0\ref\company-stock-api.dll
+C:\Users\Nathan G\Desktop\Web Development\company-stock-api\obj\Debug\net8.0\company-stock-api.sourcelink.json
